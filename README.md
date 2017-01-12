@@ -18,4 +18,4 @@ The white logo is intended for the use on dark backgrounds.
 [svg](logo/mpay24-logo-white/mpay24-logo-white.svg) | [png](logo/mpay24-logo-white/mpay24-logo-white.png) | [png@2x](logo/mpay24-logo/mpay24-logo-white@2x.png) 
 
 ### [Source File](logo/mpay24.sketch)
-The source .sketch file contains all versions and predefined export slices for each logo/size.
+The .sketch file contains all versions and predefined export slices for each logo/size.
