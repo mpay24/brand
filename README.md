@@ -3,6 +3,15 @@ This repository contains all kinds of brand resources for [mpay24.com](https://w
 
 ## Logo
 
+### [Color Logo](logo/unzer-logo/unzer.png)
+The color logo has a transparent background is intended for the use on light backgrounds.
+
+![Color Logo](logo/unzer-logo/unzer.png)
+
+[svg](logo/unzer-logo/unzer.svg) | [png](logo/unzer-logo/unzer.png) | [png@2x](logo/unzer-logo/unzer@2x.png) | [png@3x](logo/unzer-logo/unzer@3x.png)
+
+## mPAY24 Logo
+
 ### [Color Logo](logo/mpay24-logo/mpay24-logo.png)
 The color logo has a transparent background is intended for the use on light backgrounds.
 
@@ -17,7 +26,7 @@ The white logo is intended for the use on dark backgrounds.
 
 [svg](logo/mpay24-logo-white/mpay24-logo-white.svg) | [png](logo/mpay24-logo-white/mpay24-logo-white.png) | [png@2x](logo/mpay24-logo/mpay24-logo-white@2x.png)
 
-## Logo with Heidelpay
+## mPAY24 Logo with Heidelpay
 
 ### [Color Logo](logo/mpay24-heidelpay-logo/mpay24-heidelpay-logo.png)
 The color logo has a transparent background is intended for the use on light backgrounds.
